@@ -1,0 +1,12 @@
+### Custom ###
+*.ipynb
+_*/*
+_*.*
+.*/*
+.*.*
+.env
+genv/
+.vscode/
+openai-env/
+.streamlit/
+*.txt
